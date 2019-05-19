@@ -1,0 +1,4 @@
+El estudiante pepe
+con cédula 1234
+Se ha matriculado en el curso llamado 1234
+El curso se llama Ingles tiene una duración de 3 y un valor de 5000

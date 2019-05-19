@@ -1,0 +1,11 @@
+{
+  "name": "primera_entrega",
+  "version": "1.0.1",
+  "description": "Entrega de primer talle curso Node js",
+  "main": "principal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rubier Fabian Valencia",
+  "license": "ISC"
+}
